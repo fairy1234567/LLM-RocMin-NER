@@ -3,6 +3,9 @@ The repository provides the code and data supporting the paper.
 # Data
 
 The "data" folder contains experimental data files. The "test.txt" file includes the file paths and text content for 200 experimental samples. The "test_anno.json" file contains the annotated rock and mineral entities corresponding to these 200 samples.
+# Demo
+
+The "Demo" folder includes a simple test file. By adding your own OpenAI API key in the "GeoPrompted_demo.py" file, you can run it directly. The results will be saved in the "recog_result" directory.
 
 # GetResult
 
