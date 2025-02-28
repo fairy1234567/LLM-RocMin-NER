@@ -1,0 +1,4259 @@
+[
+    {
+        "ID": 1,
+        "file": "1.txt",
+        "ROC_result": {
+            "full_matched": [
+                "石英二长岩",
+                "二长岩",
+                "英云闪长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 2,
+        "file": "2.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "石英",
+                "黑云母",
+                "角闪石",
+                "透辉石",
+                "磁铁矿",
+                "锆石",
+                "榍石",
+                "石榴石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 3,
+        "file": "3.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英",
+                "黑云母",
+                "绿泥石",
+                "角闪石",
+                "黑云母",
+                "辉石"
+            ],
+            "matched": [
+                "钙角闪石"
+            ],
+            "miss": [
+                "斜长石",
+                "中长石",
+                "铁角闪石"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 4,
+        "file": "4.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "辉石",
+                "石榴子石",
+                "钙铝榴石"
+            ],
+            "matched": [],
+            "miss": [
+                "角闪石"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 5,
+        "file": "5.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "斜长石",
+                "中长石"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "斜长石",
+                "长石"
+            ]
+        }
+    },
+    {
+        "ID": 6,
+        "file": "6.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "灰色细粒黑云母闪长岩",
+                "细粒斜长岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "褐铁矿",
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "矿物"
+            ]
+        }
+    },
+    {
+        "ID": 7,
+        "file": "7.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "方解石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 8,
+        "file": "12.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "黑云母"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 9,
+        "file": "13.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "白云母花岗岩"
+            ],
+            "not_in_ground_truth": [
+                "花岗岩",
+                "岩体",
+                "岩体"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 10,
+        "file": "15.txt",
+        "ROC_result": {
+            "full_matched": [
+                "细粒黑云白云母正长花岗岩",
+                "正长花岗斑岩"
+            ],
+            "matched": [
+                "斑状中粒二云母正长花岗岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 11,
+        "file": "23.txt",
+        "ROC_result": {
+            "full_matched": [
+                "中斑状中粒二云母正长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 12,
+        "file": "25.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "钾长石",
+                "斜长石",
+                "石英",
+                "黑云母",
+                "白云母",
+                "磁铁矿",
+                "磷灰石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 13,
+        "file": "26.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "钾长石",
+                "微斜长石",
+                "斜长石",
+                "黑云母",
+                "黑云母",
+                "白云母",
+                "石英"
+            ],
+            "matched": [],
+            "miss": [
+                "更长石"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 14,
+        "file": "27.txt",
+        "ROC_result": {
+            "full_matched": [
+                "细粒黑云白云母正长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 15,
+        "file": "28.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "斜长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "石英",
+                "黑云母",
+                "白云母",
+                "磁铁矿",
+                "磷灰石"
+            ]
+        }
+    },
+    {
+        "ID": 16,
+        "file": "29.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "微斜长石",
+                "斜长石",
+                "更长石",
+                "白云母",
+                "黑云母"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "石英"
+            ]
+        }
+    },
+    {
+        "ID": 17,
+        "file": "30.txt",
+        "ROC_result": {
+            "full_matched": [
+                "花岗斑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 18,
+        "file": "31.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "石英",
+                "斜长石",
+                "钾长石",
+                "斜长石",
+                "石英",
+                "褐铁矿"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 19,
+        "file": "32.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "长石",
+                "石英"
+            ],
+            "matched": [
+                "斑晶钾长石",
+                "斑晶斜长石"
+            ],
+            "miss": [
+                "斑晶石英"
+            ],
+            "not_in_ground_truth": [
+                "石英"
+            ]
+        }
+    },
+    {
+        "ID": 20,
+        "file": "33.txt",
+        "ROC_result": {
+            "full_matched": [
+                "正长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "磁铁矿",
+                "磷灰石"
+            ],
+            "matched": [],
+            "miss": [
+                "黑云母",
+                "白云母",
+                "白云母"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 21,
+        "file": "37.txt",
+        "ROC_result": {
+            "full_matched": [
+                "板岩",
+                "花岗斑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "黑云母",
+                "白云母"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 22,
+        "file": "40.txt",
+        "ROC_result": {
+            "full_matched": [
+                "糜棱岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 23,
+        "file": "42.txt",
+        "ROC_result": {
+            "full_matched": [
+                "绢云母板岩",
+                "斑点状板岩",
+                "含红柱石板岩"
+            ],
+            "matched": [
+                "晶灰岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 24,
+        "file": "45.txt",
+        "ROC_result": {
+            "full_matched": [
+                "花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 25,
+        "file": "46.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "第四期侵入岩"
+            ],
+            "not_in_ground_truth": [
+                "侵入岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 26,
+        "file": "47.txt",
+        "ROC_result": {
+            "full_matched": [
+                "灰白色不等粒角闪黑云二长花岗岩",
+                "浅肉红色细粒黑云母二长花岗岩",
+                "肉红色粗粒正长花岗岩",
+                "斑状细—中粒黑云母正长花岗岩",
+                "灰红色花岗斑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 27,
+        "file": "50.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [
+                "普珠花岗斑岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 28,
+        "file": "52.txt",
+        "ROC_result": {
+            "full_matched": [
+                "斑状花岗岩",
+                "花岗斑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "侵入岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 29,
+        "file": "54.txt",
+        "ROC_result": {
+            "full_matched": [
+                "二长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 30,
+        "file": "55.txt",
+        "ROC_result": {
+            "full_matched": [
+                "正长花岗岩",
+                "正长花岗岩",
+                "不等粒花岗岩",
+                "二长花岗岩",
+                "正长花岗岩",
+                "二长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 31,
+        "file": "57.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "黑云母",
+                "角闪石",
+                "黑云母"
+            ],
+            "matched": [
+                "钾长石",
+                "斜长石"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 32,
+        "file": "58.txt",
+        "ROC_result": {
+            "full_matched": [
+                "二长花岗岩",
+                "花岗斑岩",
+                "正长花岗斑岩",
+                "碱长花岗斑岩"
+            ],
+            "matched": [
+                "二长花岗岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": [
+                "二长花岗斑岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "钾长石"
+            ],
+            "matched": [],
+            "miss": [
+                "角闪石",
+                "角闪石",
+                "黑云母"
+            ],
+            "not_in_ground_truth": [
+                "长英晶腺"
+            ]
+        }
+    },
+    {
+        "ID": 33,
+        "file": "59.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "磁铁矿",
+                "磷灰石",
+                "锆石",
+                "褐帘石",
+                "榍石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 34,
+        "file": "61.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "斑状安山岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 35,
+        "file": "62.txt",
+        "ROC_result": {
+            "full_matched": [
+                "二长花岗岩",
+                "石英闪长玢岩"
+            ],
+            "matched": [
+                "细粒石英闪长岩"
+            ],
+            "miss": [
+                "暗绿色细粒斜长角闪岩"
+            ],
+            "not_in_ground_truth": [
+                "斜长角闪岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 36,
+        "file": "64.txt",
+        "ROC_result": {
+            "full_matched": [
+                "斑状花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "侵入岩",
+                "岩石"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 37,
+        "file": "65.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "二长花岗岩",
+                "细粒正长花岗岩",
+                "正长花岗斑岩"
+            ],
+            "not_in_ground_truth": [
+                "细粒—中粒黑云母二长花岗岩",
+                "细粒正长花岗岩—正长花岗斑岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "黑云母"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 38,
+        "file": "68.txt",
+        "ROC_result": {
+            "full_matched": [
+                "碎屑岩",
+                "灰岩",
+                "大理岩"
+            ],
+            "matched": [],
+            "miss": [
+                "绿帘石"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "绿帘石"
+            ]
+        }
+    },
+    {
+        "ID": 39,
+        "file": "69.txt",
+        "ROC_result": {
+            "full_matched": [
+                "正长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 40,
+        "file": "70.txt",
+        "ROC_result": {
+            "full_matched": [
+                "二长花岗岩",
+                "正长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 41,
+        "file": "71.txt",
+        "ROC_result": {
+            "full_matched": [
+                "花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "侵入岩",
+                "侵入岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "矿物"
+            ]
+        }
+    },
+    {
+        "ID": 42,
+        "file": "72.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "花岗岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 43,
+        "file": "73.txt",
+        "ROC_result": {
+            "full_matched": [
+                "花岗岩",
+                "花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 44,
+        "file": "76.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "斑状正长花岗岩",
+                "斑状正长花岗岩"
+            ],
+            "matched": [
+                "普珠花岗斑岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": [
+                "岩浆岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "黑云母",
+                "黑云母"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 45,
+        "file": "79.txt",
+        "ROC_result": {
+            "full_matched": [
+                "正长斑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 46,
+        "file": "81.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "灰红色石英正长斑岩"
+            ],
+            "miss": [
+                "灰白色石英斑岩"
+            ],
+            "not_in_ground_truth": [
+                "石英斑岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 47,
+        "file": "82.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 48,
+        "file": "86.txt",
+        "ROC_result": {
+            "full_matched": [
+                "石英正长斑岩",
+                "石英二长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 49,
+        "file": "88.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "斜长石",
+                "钾长石",
+                "斜长石",
+                "石英",
+                "黑云母"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 50,
+        "file": "89.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "斜长石",
+                "斜长石"
+            ],
+            "matched": [
+                "更长石"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 51,
+        "file": "90.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "长石",
+                "钾长石",
+                "石英",
+                "石英",
+                "黑云母"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 52,
+        "file": "91.txt",
+        "ROC_result": {
+            "full_matched": [
+                "石英斑岩",
+                "碱性花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 53,
+        "file": "93.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "斜长石",
+                "石英",
+                "黑云母"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 54,
+        "file": "94.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "斜长石",
+                "斜长石",
+                "石英",
+                "黑云母"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 55,
+        "file": "97.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "磁铁矿"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 56,
+        "file": "98.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "碱性岩",
+                "高钾钙碱性岩",
+                "钾玄岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 57,
+        "file": "99.txt",
+        "ROC_result": {
+            "full_matched": [
+                "花岗岩"
+            ],
+            "matched": [],
+            "miss": [
+                "中酸性花岗岩"
+            ],
+            "not_in_ground_truth": [
+                "花岗岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 58,
+        "file": "101.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长岩",
+                "斜长花岗岩",
+                "奥长花岗岩",
+                "闪长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "钾长石"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 59,
+        "file": "102.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "闪长岩"
+            ],
+            "miss": [
+                "斑岩"
+            ],
+            "not_in_ground_truth": [
+                "折勒碱性斑岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "石英"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 60,
+        "file": "104.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 61,
+        "file": "105.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长岩",
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "闪长岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 62,
+        "file": "107.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "闪长岩"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 63,
+        "file": "108.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长玢岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 64,
+        "file": "109.txt",
+        "ROC_result": {
+            "full_matched": [
+                "正长斑岩",
+                "石英正长斑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 65,
+        "file": "110.txt",
+        "ROC_result": {
+            "full_matched": [
+                "正长花岗岩"
+            ],
+            "matched": [],
+            "miss": [
+                "灰岩",
+                "灰岩"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 66,
+        "file": "112.txt",
+        "ROC_result": {
+            "full_matched": [
+                "花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "钙碱性岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 67,
+        "file": "114.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "脉岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 68,
+        "file": "115.txt",
+        "ROC_result": {
+            "full_matched": [
+                "正长花岗斑岩",
+                "花岗斑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 69,
+        "file": "116.txt",
+        "ROC_result": {
+            "full_matched": [
+                "花岗斑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "黄铁矿",
+                "绢云母"
+            ]
+        }
+    },
+    {
+        "ID": 70,
+        "file": "117.txt",
+        "ROC_result": {
+            "full_matched": [
+                "碎屑岩"
+            ],
+            "matched": [],
+            "miss": [
+                "斑岩"
+            ],
+            "not_in_ground_truth": [
+                "霏细斑岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 71,
+        "file": "118.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 72,
+        "file": "120.txt",
+        "ROC_result": {
+            "full_matched": [
+                "岩浆岩",
+                "岩浆岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "岩浆岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 73,
+        "file": "121.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长岩",
+                "白云母花岗岩"
+            ],
+            "matched": [],
+            "miss": [
+                "岩浆岩",
+                "岩浆岩",
+                "岩浆岩",
+                "岩浆岩",
+                "岩浆岩",
+                "花岗岩"
+            ],
+            "not_in_ground_truth": [
+                "基性岩",
+                "中酸性花岗岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 74,
+        "file": "124.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 75,
+        "file": "125.txt",
+        "ROC_result": {
+            "full_matched": [
+                "石英闪长岩",
+                "闪长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英",
+                "黑云母",
+                "石英",
+                "角闪石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 76,
+        "file": "126.txt",
+        "ROC_result": {
+            "full_matched": [
+                "石英二长岩"
+            ],
+            "matched": [
+                "二长花岗岩"
+            ],
+            "miss": [
+                "角闪石"
+            ],
+            "not_in_ground_truth": [
+                "侵入岩",
+                "侵入岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英",
+                "钾长石"
+            ],
+            "matched": [],
+            "miss": [
+                "黑云母"
+            ],
+            "not_in_ground_truth": [
+                "角闪石"
+            ]
+        }
+    },
+    {
+        "ID": 77,
+        "file": "127.txt",
+        "ROC_result": {
+            "full_matched": [
+                "二长花岗岩"
+            ],
+            "matched": [
+                "二长花岗岩",
+                "二长花岗岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "角闪石",
+                "白云母",
+                "钾长石"
+            ],
+            "matched": [],
+            "miss": [
+                "石英"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 78,
+        "file": "128.txt",
+        "ROC_result": {
+            "full_matched": [
+                "正长花岗岩",
+                "正长花岗岩",
+                "正长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "白云母",
+                "黑云母",
+                "角闪石",
+                "石英",
+                "钾长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 79,
+        "file": "129.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "碱性斑岩"
+            ],
+            "not_in_ground_truth": [
+                "斑岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 80,
+        "file": "130.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "钾长石"
+            ],
+            "not_in_ground_truth": [
+                "岩石",
+                "岩石"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "钾长石"
+            ]
+        }
+    },
+    {
+        "ID": 81,
+        "file": "131.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "中酸性花岗岩"
+            ],
+            "not_in_ground_truth": [
+                "侵入岩",
+                "花岗岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英",
+                "钾长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 82,
+        "file": "133.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 83,
+        "file": "134.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 84,
+        "file": "135.txt",
+        "ROC_result": {
+            "full_matched": [
+                "石英二长岩"
+            ],
+            "matched": [],
+            "miss": [
+                "中酸性花岗岩"
+            ],
+            "not_in_ground_truth": [
+                "花岗岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 85,
+        "file": "136.txt",
+        "ROC_result": {
+            "full_matched": [
+                "二长花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 86,
+        "file": "138.txt",
+        "ROC_result": {
+            "full_matched": [
+                "花岗岩",
+                "花岗岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 87,
+        "file": "140.txt",
+        "ROC_result": {
+            "full_matched": [
+                "闪长岩",
+                "闪长岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 88,
+        "file": "142.txt",
+        "ROC_result": {
+            "full_matched": [
+                "砂屑岩",
+                "泥质岩",
+                "砂屑岩",
+                "花岗岩",
+                "糜棱岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 89,
+        "file": "144.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "花岗岩"
+            ],
+            "not_in_ground_truth": [
+                "岩石",
+                "岩浆",
+                "岩浆",
+                "夏噶日晶洞花岗岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 90,
+        "file": "146.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "花岗岩"
+            ],
+            "not_in_ground_truth": [
+                "白云母花岗岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "白云母"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 91,
+        "file": "147.txt",
+        "ROC_result": {
+            "full_matched": [
+                "石英二长岩",
+                "花岗岩"
+            ],
+            "matched": [],
+            "miss": [
+                "富钾钙碱性花岗岩"
+            ],
+            "not_in_ground_truth": [
+                "岩浆混合花岗岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 92,
+        "file": "148.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩",
+                "火山岩",
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 93,
+        "file": "150.txt",
+        "ROC_result": {
+            "full_matched": [
+                "流纹岩",
+                "玄武岩",
+                "统纹岩"
+            ],
+            "matched": [
+                "中火山岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 94,
+        "file": "152.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩",
+                "火山岩",
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 95,
+        "file": "153.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "火山岩"
+            ],
+            "not_in_ground_truth": [
+                "岩石",
+                "岩石",
+                "岩石",
+                "岩石"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 96,
+        "file": "155.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "角砾安山岩",
+                "火山碎屑岩",
+                "安山质集块熔岩",
+                "辉石安山岩",
+                "英安岩",
+                "沉火山碎屑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 97,
+        "file": "156.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "英安岩"
+            ],
+            "matched": [],
+            "miss": [
+                "弧火山岩"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 98,
+        "file": "157.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩",
+                "熔岩",
+                "火山碎屑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 99,
+        "file": "158.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩",
+                "火山碎屑岩",
+                "熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 100,
+        "file": "159.txt",
+        "ROC_result": {
+            "full_matched": [
+                "集块岩",
+                "火山角砾岩",
+                "熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "安山质岩石"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 101,
+        "file": "162.txt",
+        "ROC_result": {
+            "full_matched": [
+                "角闪安山岩",
+                "安山岩",
+                "透辉石安山岩",
+                "安山岩",
+                "透辉石安山岩",
+                "安山岩",
+                "角闪英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 102,
+        "file": "166.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 103,
+        "file": "167.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩",
+                "火山岩",
+                "安山岩",
+                "英安岩"
+            ],
+            "matched": [
+                "熔岩",
+                "火山碎屑岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": [
+                "岩类",
+                "岩石",
+                "熔岩类",
+                "岩性",
+                "火山岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 104,
+        "file": "168.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 105,
+        "file": "170.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "中长石",
+                "斜长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 106,
+        "file": "171.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "磁铁矿"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 107,
+        "file": "173.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "安山岩"
+            ],
+            "not_in_ground_truth": [
+                "透辉石安山岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "透辉石"
+            ],
+            "matched": [],
+            "miss": [
+                "透辉石"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 108,
+        "file": "174.txt",
+        "ROC_result": {
+            "full_matched": [
+                "角闪石安山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "角闪石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 109,
+        "file": "175.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "安山岩"
+            ],
+            "not_in_ground_truth": [
+                "碳酸盐化安山岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "方解石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 110,
+        "file": "176.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 111,
+        "file": "178.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "钾长石",
+                "石英",
+                "角闪石",
+                "黑云母"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 112,
+        "file": "179.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "钾长石",
+                "透长石",
+                "石英",
+                "黑云母",
+                "角闪石",
+                "绿泥石",
+                "纤闪石"
+            ],
+            "matched": [],
+            "miss": [
+                "中长石"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 113,
+        "file": "180.txt",
+        "ROC_result": {
+            "full_matched": [
+                "角闪英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "角闪石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 114,
+        "file": "182.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "磁铁矿"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 115,
+        "file": "184.txt",
+        "ROC_result": {
+            "full_matched": [
+                "流纹岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 116,
+        "file": "185.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "钾长石",
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 117,
+        "file": "186.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "钾长石",
+                "石英"
+            ],
+            "matched": [],
+            "miss": [
+                "斜长石"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 118,
+        "file": "188.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "磁铁矿"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 119,
+        "file": "189.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "火山碎屑岩"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 120,
+        "file": "190.txt",
+        "ROC_result": {
+            "full_matched": [
+                "熔岩",
+                "碎屑熔岩",
+                "沉积岩",
+                "沉积火山碎屑岩",
+                "火山碎屑沉积岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 121,
+        "file": "191.txt",
+        "ROC_result": {
+            "full_matched": [
+                "碎屑熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 122,
+        "file": "193.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山质角砾集块熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 123,
+        "file": "194.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "安山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 124,
+        "file": "195.txt",
+        "ROC_result": {
+            "full_matched": [
+                "角砾集块熔岩",
+                "凝灰熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "岩石"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 125,
+        "file": "196.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安质角砾集块熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 126,
+        "file": "197.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安岩",
+                "安山质角砾集块熔岩"
+            ],
+            "matched": [
+                "粉砂岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 127,
+        "file": "198.txt",
+        "ROC_result": {
+            "full_matched": [
+                "流纹质角砾集块熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 128,
+        "file": "199.txt",
+        "ROC_result": {
+            "full_matched": [
+                "石英砂岩",
+                "变泥质粉砂岩",
+                "安山质角砾集块熔岩"
+            ],
+            "matched": [
+                "流纹岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 129,
+        "file": "200.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山碎屑岩",
+                "火山碎屑岩",
+                "熔结火山碎屑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 130,
+        "file": "201.txt",
+        "ROC_result": {
+            "full_matched": [
+                "流纹质熔结凝灰岩",
+                "英安质熔结凝灰岩",
+                "熔结角砾岩",
+                "熔结角砾晶屑凝灰岩",
+                "熔结晶屑凝灰岩",
+                "熔结凝灰岩"
+            ],
+            "matched": [
+                "火山碎屑岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": [
+                "英安质熔结凝灰岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 131,
+        "file": "203.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安质熔结凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 132,
+        "file": "205.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "钾长石",
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 133,
+        "file": "206.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安质熔结角砾岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 134,
+        "file": "208.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩",
+                "英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 135,
+        "file": "209.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山碎屑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 136,
+        "file": "210.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安质火山碎屑岩",
+                "角砾凝灰岩",
+                "角砾晶屑凝灰岩",
+                "晶屑凝灰岩",
+                "凝灰岩",
+                "火山角砾岩",
+                "火山集块岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 137,
+        "file": "212.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安质晶屑凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 138,
+        "file": "214.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "火山灰"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "石英",
+                "钾长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "长英矿物"
+            ]
+        }
+    },
+    {
+        "ID": 139,
+        "file": "215.txt",
+        "ROC_result": {
+            "full_matched": [
+                "凝灰角砾岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 140,
+        "file": "217.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "火山灰"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "长英矿物"
+            ]
+        }
+    },
+    {
+        "ID": 141,
+        "file": "218.txt",
+        "ROC_result": {
+            "full_matched": [
+                "沉积火山碎屑岩"
+            ],
+            "matched": [],
+            "miss": [
+                "沉积火山碎屑岩"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 142,
+        "file": "220.txt",
+        "ROC_result": {
+            "full_matched": [
+                "沉安山质角砾凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 143,
+        "file": "223.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "英安岩",
+                "安山岩",
+                "英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 144,
+        "file": "224.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "方解石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "氧化铁"
+            ]
+        }
+    },
+    {
+        "ID": 145,
+        "file": "225.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "沉英安质晶屑岩屑凝灰岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 146,
+        "file": "226.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安岩"
+            ],
+            "matched": [
+                "安山岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英"
+            ],
+            "matched": [
+                "斜长石"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 147,
+        "file": "227.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "方解石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 148,
+        "file": "228.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "沉英安质凝灰岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 149,
+        "file": "231.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安岩",
+                "英安岩",
+                "泥岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 150,
+        "file": "232.txt",
+        "ROC_result": {
+            "full_matched": [
+                "泥岩"
+            ],
+            "matched": [],
+            "miss": [
+                "英安岩"
+            ],
+            "not_in_ground_truth": [
+                "火山角砾"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "绢云母"
+            ]
+        }
+    },
+    {
+        "ID": 151,
+        "file": "233.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "方解石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 152,
+        "file": "234.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩",
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [
+                "火山岩"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 153,
+        "file": "236.txt",
+        "ROC_result": {
+            "full_matched": [
+                "砂岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 154,
+        "file": "237.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "长石"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "长石"
+            ]
+        }
+    },
+    {
+        "ID": 155,
+        "file": "243.txt",
+        "ROC_result": {
+            "full_matched": [
+                "杂色厚层砾岩",
+                "含砾中粒岩屑砂岩",
+                "细粒岩屑砂岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 156,
+        "file": "244.txt",
+        "ROC_result": {
+            "full_matched": [
+                "灰岩",
+                "火山岩",
+                "安山岩",
+                "碎屑岩",
+                "灰岩",
+                "砂岩",
+                "灰岩"
+            ],
+            "matched": [],
+            "miss": [
+                "含燧石团块灰岩",
+                "燧石"
+            ],
+            "not_in_ground_truth": [
+                "灰岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "燧石"
+            ]
+        }
+    },
+    {
+        "ID": 157,
+        "file": "246.txt",
+        "ROC_result": {
+            "full_matched": [
+                "砂岩",
+                "砂岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "砂岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 158,
+        "file": "248.txt",
+        "ROC_result": {
+            "full_matched": [
+                "褐红色薄层细粒石英砂岩",
+                "紫红色粉砂质泥岩",
+                "砂岩",
+                "砾岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "泥岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 159,
+        "file": "250.txt",
+        "ROC_result": {
+            "full_matched": [
+                "泥晶灰岩"
+            ],
+            "matched": [],
+            "miss": [
+                "紫红色粉砂质泥岩",
+                "薄板状泥晶灰岩",
+                "灰绿色泥岩",
+                "褐红色薄层细粒石英砂岩"
+            ],
+            "not_in_ground_truth": [
+                "泥岩",
+                "泥岩",
+                "石英砂岩",
+                "砂岩",
+                "泥晶灰岩",
+                "泥岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 160,
+        "file": "251.txt",
+        "ROC_result": {
+            "full_matched": [
+                "泥晶灰岩"
+            ],
+            "matched": [],
+            "miss": [
+                "灰绿色泥岩"
+            ],
+            "not_in_ground_truth": [
+                "泥岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 161,
+        "file": "252.txt",
+        "ROC_result": {
+            "full_matched": [
+                "透辉石安山岩",
+                "角闪安山岩",
+                "安山岩",
+                "角闪英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 162,
+        "file": "256.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "碎角砾熔岩"
+            ],
+            "not_in_ground_truth": [
+                "熔岩流",
+                "熔岩流",
+                "熔岩流",
+                "熔岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [
+                "长石",
+                "石英"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 163,
+        "file": "257.txt",
+        "ROC_result": {
+            "full_matched": [
+                "沉角砾集块岩",
+                "沉火山角砾凝灰岩",
+                "沉凝灰岩",
+                "凝灰质砂岩",
+                "凝灰质粉砂岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 164,
+        "file": "260.txt",
+        "ROC_result": {
+            "full_matched": [
+                "砂砾岩"
+            ],
+            "matched": [
+                "沉火山角砾集块岩"
+            ],
+            "miss": [
+                "沉火山角砾岩",
+                "沉晶屑岩凝灰岩"
+            ],
+            "not_in_ground_truth": [
+                "角砾岩",
+                "岩凝灰岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 165,
+        "file": "261.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "火山碎屑岩沉积"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 166,
+        "file": "263.txt",
+        "ROC_result": {
+            "full_matched": [
+                "沉安山质角砾岩",
+                "沉英安质凝灰角砾岩",
+                "粉砂岩",
+                "粉砂质泥岩",
+                "中酸性熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 167,
+        "file": "264.txt",
+        "ROC_result": {
+            "full_matched": [
+                "角砾岩",
+                "凝灰角砾岩",
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 168,
+        "file": "266.txt",
+        "ROC_result": {
+            "full_matched": [
+                "熔岩",
+                "碎屑熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 169,
+        "file": "267.txt",
+        "ROC_result": {
+            "full_matched": [
+                "熔岩",
+                "角砾岩",
+                "熔岩"
+            ],
+            "matched": [
+                "角砾集块岩熔岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": [
+                "熔岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 170,
+        "file": "268.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 171,
+        "file": "270.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩",
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 172,
+        "file": "274.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "英安岩",
+                "角砾集块熔岩",
+                "角砾凝灰岩",
+                "晶屑凝灰岩",
+                "沉晶屑凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 173,
+        "file": "278.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山质集块角砾熔岩",
+                "熔结凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 174,
+        "file": "279.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [
+                "安山质集块角砾熔岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 175,
+        "file": "280.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 176,
+        "file": "281.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "安山岩"
+            ],
+            "not_in_ground_truth": [
+                "碳酸岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 177,
+        "file": "282.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩"
+            ],
+            "matched": [],
+            "miss": [
+                "英安岩"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "碳酸盐"
+            ]
+        }
+    },
+    {
+        "ID": 178,
+        "file": "283.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "英安岩",
+                "集块角砾熔岩",
+                "熔结凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 179,
+        "file": "284.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "英安岩",
+                "角砾凝灰岩",
+                "沉角砾凝灰岩",
+                "沉凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 180,
+        "file": "286.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山质角砾集块岩",
+                "英安质角砾熔岩",
+                "安山岩",
+                "英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 181,
+        "file": "287.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安质熔结凝灰岩",
+                "英安质凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 182,
+        "file": "288.txt",
+        "ROC_result": {
+            "full_matched": [
+                "沉英安质角砾凝灰岩",
+                "沉英安质含角砾凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 183,
+        "file": "289.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山质集块岩",
+                "火山角砾岩",
+                "安山岩",
+                "英安岩"
+            ],
+            "matched": [
+                "集块角砾凝灰岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 184,
+        "file": "291.txt",
+        "ROC_result": {
+            "full_matched": [
+                "英安质熔结凝灰岩",
+                "英安质凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 185,
+        "file": "295.txt",
+        "ROC_result": {
+            "full_matched": [
+                "沉英安质角砾凝灰岩",
+                "沉英安质含角砾凝灰岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 186,
+        "file": "296.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "角闪安山岩",
+                "角闪英安岩",
+                "流纹岩",
+                "角砾集块熔岩",
+                "角砾岩",
+                "沉晶屑凝灰岩"
+            ],
+            "matched": [
+                "安山岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [
+                "辉石"
+            ],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 187,
+        "file": "300.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山岩",
+                "角闪安山岩",
+                "辉石安山岩",
+                "角砾集块熔岩",
+                "角砾安山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 188,
+        "file": "302.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山质角砾集块熔岩",
+                "集块角砾熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "安山质",
+                "英安质"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 189,
+        "file": "303.txt",
+        "ROC_result": {
+            "full_matched": [
+                "辉石安山岩",
+                "角闪安山岩",
+                "安山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 190,
+        "file": "304.txt",
+        "ROC_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "透辉石",
+                "角闪石",
+                "斜长石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 191,
+        "file": "305.txt",
+        "ROC_result": {
+            "full_matched": [
+                "角砾集块熔岩",
+                "角砾安山岩",
+                "集块岩",
+                "熔岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 192,
+        "file": "306.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山质集块岩",
+                "角砾集块岩",
+                "安山岩",
+                "英安岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 193,
+        "file": "309.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "火山岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 194,
+        "file": "311.txt",
+        "ROC_result": {
+            "full_matched": [
+                "安山质火山碎屑岩",
+                "安山岩",
+                "英安岩",
+                "流纹质火山碎屑岩"
+            ],
+            "matched": [],
+            "miss": [
+                "熔岩"
+            ],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 195,
+        "file": "312.txt",
+        "ROC_result": {
+            "full_matched": [
+                "熔岩"
+            ],
+            "matched": [
+                "火山碎屑岩"
+            ],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 196,
+        "file": "313.txt",
+        "ROC_result": {
+            "full_matched": [
+                "沉火山碎屑岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 197,
+        "file": "314.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 198,
+        "file": "317.txt",
+        "ROC_result": {
+            "full_matched": [
+                "岩浆岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 199,
+        "file": "319.txt",
+        "ROC_result": {
+            "full_matched": [
+                "火山岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": [
+                "埃达克岩"
+            ]
+        },
+        "MIN_result": {
+            "full_matched": [],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    },
+    {
+        "ID": 200,
+        "file": "320.txt",
+        "ROC_result": {
+            "full_matched": [
+                "埃达克岩"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        },
+        "MIN_result": {
+            "full_matched": [
+                "斜长石",
+                "角闪石"
+            ],
+            "matched": [],
+            "miss": [],
+            "not_in_ground_truth": []
+        }
+    }
+]
