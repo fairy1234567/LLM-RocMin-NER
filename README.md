@@ -38,8 +38,6 @@ The "Metrics_results" folder contains the code and result files for obtaining me
 
 # Metrics_results_swap_labeling_symbols
 
-Metrics_results_swap_labeling_symbols与Metrics_results文件夹内容类似，不过计算的是recog_result_swap_labeling_symbols文件夹下每一个结果文件的指标
-
 The "Metrics_results_swap_labeling_symbols" folder is similar to the "Metrics_results" folder, but it calculates the metrics for each result file in the "recog_result_swap_labeling_symbols" folder.
 
 ## Metrics_results/claude-3.5-sonnet-geoprompted2
